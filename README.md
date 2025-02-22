@@ -21,7 +21,6 @@ b)After starting, you will see the following menu:
 ***** Menu *****
 1. Send message
 2. Query active peers
-3. Connect to active peers
 0. Quit
 Enter your choice:
 
@@ -33,11 +32,6 @@ If the peer is connected, the message will be sent.
 
 Option 2️⃣: Query Active Peers
 This will display a list of all connected peers.
-
-Option 3️⃣: Connect to an Active Peer
-Enter the IP address of the peer you want to connect to.
-Enter the port number of the peer.
-The connection will be established.
 
 Option 0️⃣: Quit the Program
 This will close the peer node and exit the program.
