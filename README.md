@@ -38,6 +38,7 @@ Option 0️⃣: Quit the Program
 This will close the peer node and exit the program.
 
 You will have to run the program in different terminals and name your peer in each terminal.The above steps can be followed in each terminal.
+The outputs of test case (given in pdf) are given from images output1_P1 to output1_P4; the two outputs after P1 sends exit message to P3 is in output2_P1 and output2_P3.
 
 
 Instructions for Bonus Question:
@@ -74,5 +75,5 @@ This will close the peer node and exit the program.
 
 You will have to run the program in different terminals and name your peer in each terminal.
 The above steps can be followed in each terminal.
- 
+ The interface of the output is shown in Bonus_q_interface image.
 
